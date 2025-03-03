@@ -28,4 +28,10 @@ def fibonacci_generator(n = None):
         n -= 1
 for n_fibo in fibonacci_generator(7):
     print(n_fibo)
+```
 
+# Creamos una task list
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
